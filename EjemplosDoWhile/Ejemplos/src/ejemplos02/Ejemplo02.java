@@ -41,6 +41,7 @@ public class Ejemplo02 {
                     bandera = false;
                     break;
             } 
+            
 
         } while (bandera); // (bandera==true)
 
